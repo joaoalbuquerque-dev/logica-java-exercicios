@@ -10,6 +10,7 @@ Repositório com exercícios resolvidos de lógica de programação em Java.
 - Estruturas sequenciais
 - Estruturas condicionais
 - Estruturas de repetição
+- Vetores
 - Matrizes
 
 ## 🎯 Objetivo
