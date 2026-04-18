@@ -13,6 +13,11 @@ Repositório com exercícios resolvidos de lógica de programação em Java.
 - Vetores
 - Matrizes
 
+## 🚀 Tecnologias
+
+- Java
+- Lógica de programação
+
 ## 🎯 Objetivo
 
-Desenvolver raciocínio lógico e base sólida para Java + Spring Boot.
+Desenvolver raciocínio lógico e base sólida para evolução em Java + Spring Boot.
