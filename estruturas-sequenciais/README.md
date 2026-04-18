@@ -1,8 +1,15 @@
-# Estruturas Sequenciais
+# 📌 Estruturas Sequenciais
 
-Exercícios de lógica em Java envolvendo entrada, saída e cálculos básicos.
+Exercícios de lógica em Java envolvendo:
 
-## Conteúdo
 - Entrada e saída de dados
 - Operações matemáticas
-- Problemas iniciais de lógica
+- Problemas básicos de lógica
+
+📚 Fonte: Beecrowd + Curso Nélio Alves
+
+## 🧠 O que foi praticado
+
+- Uso de variáveis
+- Cálculos
+- Formatação de saída
