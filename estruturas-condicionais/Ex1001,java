@@ -1,0 +1,25 @@
+package beecrowd.condicionais;
+
+import java.util.Scanner;
+
+public class Ex1001 {
+    public static void main(String[] args) {
+
+        Scanner sc = new Scanner(System.in);
+
+        System.out.print("Digite sua idade: ");
+        int idade = sc.nextInt();
+
+        int anoNascimento = 2026 - idade;
+
+        if (idade >= 18) {
+            System.out.println("Você é maior de idade.");
+        } else {
+            System.out.println("Você é menor de idade.");
+        }
+
+        System.out.println("Você nasceu em: " + anoNascimento);
+
+        sc.close();
+    }
+}
