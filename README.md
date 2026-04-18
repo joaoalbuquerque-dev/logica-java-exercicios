@@ -1,15 +1,17 @@
-# 📌 Estruturas Sequenciais
+# 💻 Lógica em Java - Exercícios
 
-Exercícios de lógica em Java envolvendo:
+Repositório com exercícios resolvidos de lógica de programação em Java.
 
-- Entrada e saída de dados
-- Operações matemáticas
-- Problemas básicos de lógica
+📚 Curso: Nélio Alves + Beecrowd  
+🚀 Foco: Desenvolvimento Backend
 
-📚 Fonte: Beecrowd + Curso Nélio Alves
+## 📂 Conteúdo
 
-## 🧠 O que foi praticado
+- Estruturas sequenciais
+- Estruturas condicionais
+- Estruturas de repetição
+- Matrizes
 
-- Uso de variáveis
-- Cálculos
-- Formatação de saída
+## 🎯 Objetivo
+
+Desenvolver raciocínio lógico e base sólida para Java + Spring Boot.
